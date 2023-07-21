@@ -1,7 +1,7 @@
 Attribute VB_Name = "Module1"
 Sub 更新庫存()
-    庫存計算
-    更新進銷貨庫存
+    
+    
     更新借歸還庫存
     更新庫存日期
 End Sub
